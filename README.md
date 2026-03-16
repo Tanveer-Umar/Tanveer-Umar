@@ -2,15 +2,38 @@
 
 <!--
 **Tanveer-Umar/Tanveer-Umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### I'm Tanveer Umar
+
+🎓 **Bachelor of Electrical Engineering (B.E.)**, Punjab University, Pakistan  
+💻 **Technical Skills:**  
+- **Programming:** C, C++, Python, HTML, CSS  
+- **Web Development:** Frontend & Backend basics  
+- **Embedded Systems & IoT:** Arduino, STM32, Espressif, IoT projects  
+- **Simulation & Design Tools:** MATLAB, Logisim, Multisim  
+
+🚀 **What I do:**  
+- Build web applications and interactive websites  
+- Develop embedded systems and IoT solutions  
+- Simulate electrical circuits and analyze systems  
+- Work on microcontroller-based projects and automation  
+
+🔧 **Tools & Platforms:**  
+VS Code | Arduino IDE | PlatformIO | Git | GitHub | Figma (UI/UX basics)  
+
+🌱 **I’m currently learning:** Advanced web development, IoT applications, and embedded systems programming  
+
+👯 **I’m looking to collaborate on:** Innovative embedded projects, IoT systems, and web development projects  
+
+💬 **Ask me about:** Web development, Embedded programming, IoT, MATLAB simulations, Microcontrollers  
+
+📫 **How to reach me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TanveerUmar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-umar)  
+[![Email](https://img.shields.io/badge/Email-tanveer@example.com-red?logo=gmail&logoColor=white)](mailto:tanveer@example.com)  
+
+⚡ **Fun fact:** I enjoy turning innovative ideas into smart automated systems using IoT and embedded programming.  
+
+---
+
+✨ Always learning | Always building | Always curious
