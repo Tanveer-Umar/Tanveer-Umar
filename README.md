@@ -30,7 +30,7 @@ VS Code | Arduino IDE | PlatformIO | Git | GitHub | Figma (UI/UX basics)
 
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TanveerUmar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-umar)  
-[![Email](https://img.shields.io/badge/Email-tanveer@example.com-red?logo=gmail&logoColor=white)](mailto:tanveerumar15@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-tanveerumar15@gmail.com-red?logo=gmail&logoColor=white)](mailto:tanveerumar15@gmail.com)  
 
 ⚡ **Fun fact:** I enjoy turning innovative ideas into smart automated systems using IoT and embedded programming.  
 
