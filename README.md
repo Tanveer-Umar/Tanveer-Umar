@@ -29,7 +29,7 @@ VS Code | Arduino IDE | PlatformIO | Git | GitHub | Figma (UI/UX basics)
 💬 **Ask me about:** Web development, Embedded programming, IoT, MATLAB simulations, Microcontrollers  
 
 📫 **How to reach me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanveer-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-umar-hayat-10bb233b7/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanveer_Umar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-umar-hayat-10bb233b7/)  
 [![Email](https://img.shields.io/badge/Email-tanveerumar15@gmail.com-red?logo=gmail&logoColor=white)](mailto:tanveerumar15@gmail.com)  
 
 ⚡ **Fun fact:** I enjoy turning innovative ideas into smart automated systems using IoT and embedded programming.  
